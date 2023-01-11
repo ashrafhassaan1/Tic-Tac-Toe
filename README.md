@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This repository will be filled with lots of checks
+This repository will include the source code for the tic-tac-toe game in c++
